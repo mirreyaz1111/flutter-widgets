@@ -1,4 +1,4 @@
-# flutter_test_app
+# Flutter Widgets
 
 A Flutter widgets example app
 
